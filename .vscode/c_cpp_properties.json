@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "includePath": [
+        "C:/Apps/MSYS/mingw64/include/**",
+        "C:/Apps/MSYS/mingw64/lib/**"
+      ]
+    }
+  ],
+  "version": 4
+}
